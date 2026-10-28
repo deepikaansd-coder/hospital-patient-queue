@@ -1,0 +1,1 @@
+"""Patient queue business logic."""
